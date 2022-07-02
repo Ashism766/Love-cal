@@ -1,0 +1,97 @@
+@media screen {
+
+}
+body{
+  background-color: #E56AB3;
+  background-image: url("back.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+h1 {
+  font-size: 3rem;
+  font-family: serif;
+  color: #fff;
+  font-weight: bolder;
+}
+p {
+  font-family:  sans-serif;
+
+  font-size: 1rem;
+  color: #fff;
+
+
+}
+.lebel{
+ display: block;
+ color:  #fff;
+ padding: 0.5rem;
+ color: white;
+ font-family: sans-serif;
+text-shadow: 0 0 1px black, 0 0 2px black;
+
+}
+.Heading{
+  padding-top: 3rem;
+  text-align: center;
+}
+
+.inputSection {
+  text-align: center;
+  padding-top: 4rem;
+  display: block;
+
+}
+.patner {
+
+  padding-top: 2rem;
+}
+
+div .button {
+
+  padding-top: 2rem;
+}
+
+
+.inputbox {
+  border-radius: 10px;
+  border: solid 2px pink;
+  
+
+
+}
+
+.resultDiv{
+  width: 100%;
+  text-align: center;
+  padding: 3rem 0px;
+
+}
+#result {
+    color: pink;
+    font-size: 4rem;
+    text-align: center;
+    padding-top: 2rem;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+
+}
+.compatibility {
+  padding-top: 2.5rem;
+  color: black;
+  text-align: center;
+  font-size: 2rem;
+  color: plum;
+  text-shadow: 0 0 1px #FF0000, 0 0 1px #0000FF;
+
+}
+.fontsize {
+  font-size: .5px;
+}
+#button{
+  border-radius: 100px;
+}
+#button:hover {
+  background-color: pink;
+
+}
